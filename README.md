@@ -1,4 +1,4 @@
-**Problem Statement:**
+**<span style="font-size: 20px;">Problem Statement:</span>**
 
 I'm excited to welcome you to our Probability and Statistics project, which will take you on a journey through the world of data analysis. Today, we set out on a journey to extract important insights from a real-world dataset, which will guide us to educated judgements and strategies for improving our marketing efforts by optimising marketing techniques and increasing offer acceptance rates. We hope to uncover patterns, detect trends, and reveal correlations in our consumer data by applying probability theory and statistics.
 
